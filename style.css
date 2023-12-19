@@ -35,3 +35,21 @@ div {
 body{
     background-color: beige;
 }
+
+#gymnastics {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+#olympics{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid grey
+}
+
+#determination {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 3px solid olive;
+}
